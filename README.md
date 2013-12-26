@@ -1,7 +1,7 @@
 Box2DWeb and EaselJS Spriting Mashup
 ====================================
 
-[![screen shot ](https://github.com/mrisney/box2d-terrain/blob/master/images/snowboarder.png)](#features)
+[![screen shot ](http://github.com/mrisney/box2d-terrain/blob/master/images/snowboarder.png)](#features)
 
 This is an example of the javascript physics port of Box2DWeb and EaselJS Spriting.
 The standalone Sprite sheet can be seen here
